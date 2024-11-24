@@ -1,6 +1,7 @@
 ### consumer rabbitmq blog python django
 https://github.com/insanilah/blog-python-django
 
+
 ### install requirement
 ```
 pip install -r requirements.txt
